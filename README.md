@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi there, I'm trinyo! 👋
 
-<!--
-**trinyo/trinyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 **Aspiring University Student**  
+Currently awaiting university acceptance, I'm a passionate learner and developer who enjoys building modern, responsive web applications and exploring new technologies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack & Skills
+
+- **Web:** HTML, CSS, JavaScript (Intermediate), TypeScript, Tailwind CSS, React
+- **Backend:** Laravel (with Blade)
+- **Other:** C#
+- Always experimenting and leveling up my skills!
+
+---
+
+## 🚀 Highlight Project: A Mondo
+
+**A Mondo** is a community platform for indie game developers and gamers, inspired by Itch.io.  
+Built using **Laravel** and **Tailwind CSS**, it lets users upload, browse, and review games, manage profiles, and enjoy a modern, responsive interface with dark mode support.
+
+*High school final exam project.*  
+*A Mondo egy közösségi platform indie játékfejlesztőknek és játékosoknak, amelyet az Itch.io inspirált. Laravel, Tailwind CSS segítségével épült, lehetővé téve játékok feltöltését, böngészését, értékelését és profilok kezelését egy modern, reszponzív felületen, sötét mód támogatással.*
+
+---
+
+## 🎮 About Me
+
+- 🏋️ I do calisthenics
+- 🕹️ I like gaming
+- 💡 Always curious and open to learning
+
+---
