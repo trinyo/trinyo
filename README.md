@@ -7,7 +7,7 @@ Currently awaiting university acceptance, I'm a passionate learner and developer
 
 ## 🛠️ Tech Stack & Skills
 
-- **Web:** HTML, CSS, JavaScript (Intermediate), TypeScript, Tailwind CSS, React
+- **Web:** HTML, CSS, JavaScript, TypeScript, Tailwind CSS, React
 - **Backend:** Laravel (with Blade)
 - **Other:** C#
 - 🐧 **Linux user**
