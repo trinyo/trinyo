@@ -1,7 +1,7 @@
 # Hi there, I'm trinyo! 👋
 
-🌱 **Aspiring University Student**  
-Currently awaiting university acceptance, I'm a passionate learner and developer who enjoys building modern, responsive web applications and exploring new technologies.
+🌱 **Computer Science Student at Budapest University of Technology and Economics (BME)**  
+I was recently accepted to BME for Computer Science! I'm a passionate learner and developer who enjoys building modern, responsive web applications and exploring new technologies.
 
 ---
 
@@ -21,7 +21,7 @@ Currently awaiting university acceptance, I'm a passionate learner and developer
 Built using **Laravel** and **Tailwind CSS**, it lets users upload, browse, and review games, manage profiles, and enjoy a modern, responsive interface with dark mode support.
 
 *High school final exam project.*  
-*A Mondo egy közösségi platform indie játékfejlesztőknek és játékosoknak, amelyet az Itch.io inspirált. Laravel, Tailwind CSS segítségével épült, lehetővé téve játékok feltöltését, böngészését, értékelését és profilok kezelését egy modern, reszponzív felületen, sötét mód támogatással.*
+*A Mondo egy közösségi platform indie játékfejlesztőknek és játékosoknak, amelyet az Itch.io inspirált. Laravel, Tailwind CSS segítségével épült, lehetővé téve játékok feltölt[...]  
 
 ---
 
